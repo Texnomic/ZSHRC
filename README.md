@@ -1,2 +1,2 @@
 # ZSHRC
-Texnomic ZSHRC File
+My Oh-My-Zsh .ZSHRC File
