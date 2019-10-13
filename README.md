@@ -1,0 +1,2 @@
+# ZSHRC
+Texnomic ZSHRC File
